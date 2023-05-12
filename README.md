@@ -6,4 +6,4 @@
    
    - Com o acessador "set" podemos modificar a forma como uma propriedade é alterada via atribuição.
    
-   - Também são conhecidos como getters e setters
+   - Também são conhecidos como getters e setters.
